@@ -1,0 +1,10 @@
+com\cap\controller\LoanRequestController.class
+com\cap\entities\LoanRequest.class
+com\cap\service\ILoanRequestService.class
+com\cap\dao\IloanRequestDao.class
+com\cap\exceptions\AccountNotFoundException.class
+com\cap\service\LoanRequestServiceImpl.class
+com\cap\org\ServletInitializer.class
+com\cap\dto\CreateLoanRequestDto.class
+com\cap\org\LoanManagementApplication.class
+com\cap\dto\LoanRequestDetailsDto.class
